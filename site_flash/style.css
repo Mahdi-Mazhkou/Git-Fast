@@ -1,0 +1,184 @@
+body	{
+						margin:0px;
+						padding:0px;
+						background:#D7D3B8;
+						font-family:Tahoma;
+						}
+td {
+						vertical-align:top;
+						font-size:11px;
+						line-height:14px;
+						font-family:Tahoma;
+						color:#2C1F1E;
+						}	
+img {
+						border:0;
+						}											
+/*--------------------------------------------------   ul, em, i, form	 ---------------------*/						
+ul {
+						list-style-type:none;
+						margin:0px; 
+						padding:0px; 
+						}	
+em, i {
+						font-style:normal;
+						}						
+form {
+						padding:0px;
+						margin:0px;
+						}						
+/*----------------------------------------------------   a	 ---------------------*/						
+a	{
+						color:#730519;
+						font-size:11px;
+						text-decoration:underline;
+						}
+a:hover	{
+						color:#730519;
+						font-size:11px;
+						text-decoration:none;
+						}
+strong i {
+						color:#4F472E;
+						font-size:10px;
+						}
+strong 	{
+						color:#2C1F1E;
+						}						
+strong a	{
+						color:#2C1F1E;
+						text-decoration:underline;
+						}
+strong a:hover	{
+						color:#2C1F1E;
+						text-decoration:none;
+						}							
+b	{
+						color:#730519;
+						}
+b i {
+						color:#ffffff;
+						font-size:10px;
+						line-height:11px;
+						}						
+b i a{
+						color:#ffffff;
+						font-size:10px;
+						line-height:10px;
+						text-decoration:none;
+						}
+b i a:hover{
+						color:#ffffff;
+						font-size:10px;
+						line-height:10px;
+						text-decoration:underline;
+						}																							
+/*----------------------------------------------------   input, textarea	 ---------------------*/						
+input, textarea {
+						width:222px;
+						background-color:#ffffff;
+						font-family:Tahoma;
+						font-size:10px;
+						color:#2C1F1E;
+						line-height:10px;
+						padding-left:2px;
+						padding-right:2px;
+						}												
+input	{
+						height:18px;
+						margin:1px 0px 0px 0px;
+						}
+textarea	{
+						height:70px;
+						margin:1px 0px 0px 0px;
+						overflow:hidden;
+						}
+
+.intut_head	{
+						width:120px;
+						height:19px;
+						background-color:#E9E7D8;
+						border:1px solid #34030C;
+						color:#2C1F1E;
+						margin:0px 0px 0px 0px;
+						}
+.input_head_submit	{
+						height:19px;
+						width:41px;
+						border:0;
+						margin:0px 0px 0px 3px;
+						padding:0px 0px 0px 0px;
+						}
+/*-----------------------------------------------------   bg_talling	 ---------------------*/																	
+.point_y_bg	{						
+						background:url(images/point_y_bg.gif) left top repeat-y;
+						}
+.bg_title	{						
+						background:url(images/bg_title.jpg) left top no-repeat #CAC9B5;
+						height:42px;
+						}
+.bg_2	{						
+						background:url(images/bg_2.jpg) left bottom no-repeat;
+						}												
+.head_bg	{						
+						background:url(images/head_bg.jpg) left top no-repeat;
+						}	
+.m_bg	{						
+						background:url(images/m_bg.jpg) left top no-repeat;
+						}										
+/*-----------------------------------------------------  	li	 	---------------------*/
+li	{
+						background-image: url(images/list_0_1.gif);
+						background-position: 0px 6px;
+						background-repeat: no-repeat;
+						font-size:11px;
+						margin:0px 0px 4px 0px; 
+						padding:0px 0px 0px 14px;
+						line-height:13px;
+						color:#7C7C7C;
+						}
+li a	{
+						color:#730519;
+						font-size:11px;
+						text-decoration:underline;
+						}
+li a:hover	{
+						color:#730519;
+						font-size:11px;
+						text-decoration:none;
+						}						
+/*------------------------------------------------------- footer	 ---------------------*/
+.footer 	{
+						background:#CAC9B5;
+						}
+.footer td	{
+						color:#444444;
+						font-size:10px;
+						line-height:12px;
+						}	
+.footer a	{
+						color:#444444;
+						font-size:10px;
+						text-decoration:underline;
+						}
+.footer a:hover	{
+						color:#444444;
+						font-size:10px;
+						text-decoration:none;
+						}
+.footer span a	{
+						color:#730519;
+						}
+.footer span a:hover	{
+						color:#730519;
+						}						
+/*-----------------------------------------------------    border   ---------------------*/
+.border_l  {
+						border-right:1px solid #44030F;
+						width:50%;
+						}						
+.border_r  {
+						border-left:1px solid #44030F;
+						width:50%;
+						}
+/*-----------------------------------------------------    end   ---------------------*/													
